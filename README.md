@@ -2,7 +2,7 @@
 
 Простое клиентское приложение для обмена текстовыми сообщениями через систему **GREEN-API** с использованием WhatsApp. Разработано в качестве тестового задания.
 
-🚀 **[Живое демо на GitHub Pages](https://github.com/Kuorti/green-api-react-chat)**
+🚀 **[Живое демо на GitHub Pages](https://kuorti.github.io/green-api-react-chat/)**
 
 ---
 
